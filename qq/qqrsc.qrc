@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/login_widget">
+        <file>images/loginqq.gif</file>
+    </qresource>
+    <qresource prefix="/new/chat_window">
+        <file>images/Bin (empty).png</file>
+        <file>images/textbold.png</file>
+        <file>images/textcolor.png</file>
+        <file>images/textitalic.png</file>
+        <file>images/textunder.png</file>
+        <file>images/fileopen.png</file>
+    </qresource>
+</RCC>
