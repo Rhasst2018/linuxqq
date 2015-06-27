@@ -3,6 +3,7 @@
 ## Development environment
 * Qt4
 * MySql
+
 ## Usage
 1. Import database into MySql,then open the source code of qqserver, there is a head file named Sqlconnection.h, change the username and password in the file to yourself database username and password, and recompile the qqserver code.
 2. First you should run the server and then it's client turn. There is username and password that already register in the database table named usr_info.Or you can click register button to register a new account.
